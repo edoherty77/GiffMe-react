@@ -2,7 +2,7 @@ body {
   background-color: rgb(71, 194, 222);
 }
 
-.trendingList{
+.trendingList, .myList{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
